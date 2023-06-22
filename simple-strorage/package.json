@@ -1,0 +1,10 @@
+{
+  "name": "simple-strorage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Al Ameer",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.16.0"
+  }
+}
